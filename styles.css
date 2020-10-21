@@ -121,12 +121,12 @@ bottom: initial !important;
 */
 
 .carousel-caption {
-    width: 500px;
+    width: 700px;
     z-index: 10;
     color: #fff;
     text-align: left;
-    top: 25%;
-    left: 10%;
+    top: 15%;
+    left: 5%;
     bottom: auto;
     -webkit-transform: translate(0, -50%);
     -ms-transform: translate(0, -50%);
