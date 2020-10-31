@@ -66,6 +66,14 @@ nav .navbar-brand {
 
 }
 
+.rainbow-text {
+    background-image: linear-gradient(to left, yellow, violet, indigo, white, green, yellow, red);
+    -webkit-background-clip: text;
+    color: transparent;
+
+}
+
+
 #coyname {
     color: red !important;
 }
@@ -125,7 +133,7 @@ bottom: initial !important;
     z-index: 10;
     color: #fff;
     text-align: left;
-    top: 15%;
+    top: 30%;
     left: 5%;
     bottom: auto;
     -webkit-transform: translate(0, -50%);
@@ -135,7 +143,7 @@ bottom: initial !important;
 
 .carousel-caption h1 {
     color: red;
-    font-size: 35px;
+    font-size: 50px;
 
 
 }
